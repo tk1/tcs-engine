@@ -1,0 +1,15 @@
+{
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "standard.autoFixOnSave": true,
+  "standard.enableGlobally": true,
+  "standard.validate": [
+    "javascript",
+    "typescript"
+  ],
+  "standard.options": {
+    "ignore": [
+      "node_modules/**"
+    ]
+  }
+}
