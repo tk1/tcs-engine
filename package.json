@@ -1,5 +1,5 @@
 {
-  "name": "tcs",
+  "name": "tcs-engine",
   "version": "0.2.0",
   "description": "algorithms for theoretical computer science",
   "main": "main.js",
